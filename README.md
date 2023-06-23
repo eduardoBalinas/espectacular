@@ -4,6 +4,8 @@ Aplicacion Backend de espectaculares
 <br>
 composer install
 <br>
+npm install
+<br>
 
 php artisan optimize
 <br>
