@@ -15,3 +15,11 @@ php artisan serve
 <br>
 
 Nota esto solo es el backend se necestita correr el front despues
+
+# Usuarios de prueba
+username: admin
+<br>
+password: 12345678
+<br>
+usuarion: normal
+password: password
