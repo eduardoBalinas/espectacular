@@ -21,6 +21,6 @@ username: admin
 <br>
 password: 12345678
 <br>
-usuarion: normal
+username: normal
 <br>
 password: password
