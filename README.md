@@ -7,6 +7,8 @@ composer install
 
 php artisan optimize
 <br>
+php artisan migrate
+<br>
 php artisan migrate:refresh --seed 
 <br>
 php artisan serve
